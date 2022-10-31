@@ -28,6 +28,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     // Nav function for Navigation
                     Nav()
+                    // New lin added
                 }
 
             }
