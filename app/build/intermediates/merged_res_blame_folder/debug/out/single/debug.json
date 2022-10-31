@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-mdpi_ic_home_foreground.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-mdpi/ic_home_foreground.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_ic_home_background.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/ic_home_background.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxhdpi_ic_home.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_rectangle_2.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/rectangle_2.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-mdpi_ic_home_round.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-mdpi/ic_home_round.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-hdpi_ic_home_foreground.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-hdpi/ic_home_foreground.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_group_5.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/group_5.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_group_4.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/group_4.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxxhdpi_ic_home_round.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxxhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable-mdpi_group_1.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable-mdpi/group_1.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-hdpi_ic_home_round.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-hdpi/ic_home_round.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xhdpi_ic_home_foreground.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xhdpi/ic_home_foreground.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-anydpi-v26_ic_home.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-anydpi-v26/ic_home.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_group_2.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/group_2.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xhdpi_ic_home.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xhdpi_ic_home_round.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxhdpi_ic_home_round.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxhdpi/ic_home_round.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-anydpi-v26_ic_home_round.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-anydpi-v26/ic_home_round.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_group_3.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/group_3.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/drawable_group_6.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/drawable/group_6.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxhdpi_ic_home_foreground.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxhdpi/ic_home_foreground.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-mdpi_ic_home.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-mdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-hdpi_ic_home.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-hdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxxhdpi_ic_home.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxxhdpi/ic_home.png"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.zinebdee.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.zinebdee.app-merged_res-47:/mipmap-xxxhdpi_ic_home_foreground.png.flat",
+        "source": "com.example.zinebdee.app-main-49:/mipmap-xxxhdpi/ic_home_foreground.png"
+    }
+]
