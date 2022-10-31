@@ -1,4 +1,5 @@
 package com.example.zinebdee
+
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -15,7 +16,6 @@ import com.example.zinebdee.ui.screens.screen2.Screen2
 import com.example.zinebdee.ui.theme.ZinebDeeTheme
 
 
-
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -26,14 +26,14 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.surface
                 ) {
+                    // Nav function for Navigation
                     Nav()
-
-                }
-
                 }
 
             }
+
         }
+    }
 }
 
 
