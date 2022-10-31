@@ -26,10 +26,9 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.surface
                 ) {
-                    // Nav function for Navigation
                     Nav()
-                    // New lin added
-                    // another line
+
+
                 }
 
             }
